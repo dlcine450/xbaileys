@@ -7,8 +7,9 @@
     ],
     "homepage": "https://github.com/dlcine450/xbaileys",
     "repository": {
-        "url": "https://github.com/dlcine450/xbaileys"
-    },
+    "type": "git",
+    "url": "git+ssh://git@github.com/dlcine450/xbaileys.git"
+  },
     "license": "MIT",
     "author": "Gupong - Shop",
     "main": "lib/index.js",
