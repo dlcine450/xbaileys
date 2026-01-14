@@ -1,13 +1,13 @@
 {
-    "name": "GupongXyz/baileys",
+    "name": "dlcine450/xbaileys",
     "version": "1.7.3",
     "description": "WhatsApp Modified By GupongShop",
     "keywords": [
         "whatsapp-baileys"
     ],
-    "homepage": "https://github.com/GupongXyz/baileys",
+    "homepage": "https://github.com/dlcine450/xbaileys",
     "repository": {
-        "url": "https://github.com/GupongXyz/baileys"
+        "url": "https://github.com/dlcine450/xbaileys"
     },
     "license": "MIT",
     "author": "Gupong - Shop",
@@ -101,6 +101,6 @@
         "node": ">=20.0.0"
     }, 
     "bugs": {
-      "url": "https://GupongXyz/baileys/issues"
+      "url": "https://dlcine450/xbaileys/issues"
     }
 }
